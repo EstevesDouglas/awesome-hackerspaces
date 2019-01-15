@@ -6,6 +6,11 @@ A curated list of awesome Hackerspaces
 [Laboratório Hacker de Campinas page.](https://wiki.hackerspaces.org/Laborat%C3%B3rio_Hacker_de_Campinas)
 
 
+# Videos About Hackerspaces
+- [The Hackerspace Movement: Mitch Altman at TEDxBrussels](https://www.youtube.com/watch?v=WkiX7R1-kaY)
+
+
+
 # References
 - [https://wiki.hackerspaces.org/](https://wiki.hackerspaces.org/)
 - [Chaos Computer Club]
