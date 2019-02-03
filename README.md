@@ -5,6 +5,8 @@ A curated list of awesome Hackerspaces
 ## Laboratório Hacker de Campinas
 [Laboratório Hacker de Campinas page.](https://wiki.hackerspaces.org/Laborat%C3%B3rio_Hacker_de_Campinas)
 
+## Dumont Hackerspace
+[Page Dumont Hackerspace](https://dumonths.github.io/)
 
 # Videos About Hackerspaces
 - [The Hackerspace Movement: Mitch Altman at TEDxBrussels](https://www.youtube.com/watch?v=WkiX7R1-kaY)
