@@ -19,3 +19,4 @@ A curated list of awesome Hackerspaces
 - [C-Base] (https://www.c-base.org/)
 - [Garoa Hacker Clube](https://garoa.net.br)
 - [Laboratório Hacker de Campinas](https://lhc.net.br/)
+- [Hacker Ethics](https://www.ccc.de/en/hackerethik)
