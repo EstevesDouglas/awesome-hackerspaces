@@ -1,6 +1,26 @@
 # awesome-hackerspaces
 A curated list of awesome Hackerspaces
 
+Hacker Ethics
+What are the ethical principles of hacking - motivation and limits
+
+Access to computers - and anything which might teach you something about the way the world really works - should be unlimited and total. Always yield to the Hands-On Imperative!
+All information should be free.
+Mistrust authority - promote decentralization.
+Hackers should be judged by their acting, not bogus criteria such as degrees, age, race, or position.
+You can create art and beauty on a computer.
+Computers can change your life for the better.
+Don't litter other people's data.
+Make public data available, protect private data.
+The hacker ethics were first written down by Steven Levy in his book "Hackers: Heroes of the Computer Revolution (ISBN 0-440-13405-6, 1984). He mentions the Tech Model Railroad Club at MIT, their members constructed a supersystem of relays and switches - some of them became core members the ai lab. They used the term "hack" for an "elaborate ... prank" with "serious respect implied". The hacker ethics evolved in a time when computers were scarce; and the people sharing a machine had to think about rules of cooperation.
+
+The last two point are additions by the CCC from the 80s. After some more or less crazy individuals from the hacker scene had the idea of offering their "hacker know-how" to the KGB there were intense discussions, three letter agencies have a somewhat different opinion about freedom of information. As well were intrusions into outside systems considered more and more counter productive.
+
+To protect the privacy of the individual and to strengthen the freedom of the information which concern the public the yet last point was added.
+
+Hacker ethics are —like the rest of the world— as such in constant discussion and development. The above rules should be considered as guidelines and basis for discussion.
+
+
 # Brazilian Hackerspace
 ## Laboratório Hacker de Campinas
 [Laboratório Hacker de Campinas page.](https://wiki.hackerspaces.org/Laborat%C3%B3rio_Hacker_de_Campinas)
