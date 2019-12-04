@@ -31,6 +31,9 @@ Hacker ethics are —like the rest of the world— as such in constant discussio
 # Videos About Hackerspaces
 - [The Hackerspace Movement: Mitch Altman at TEDxBrussels](https://www.youtube.com/watch?v=WkiX7R1-kaY)
 
+# Thematic projects involving hackerspace
+- [Tese da UFBA sobre processos educativos em espaços hackers vence Prêmio Capes](http://www.edgardigital.ufba.br/?p=15363) 
+- [Espaço livre para criar](https://revistapesquisa.fapesp.br/2018/05/23/espaco-livre-para-criar/)
 
 
 # References
