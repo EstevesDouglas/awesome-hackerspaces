@@ -28,6 +28,10 @@ Hacker ethics are —like the rest of the world— as such in constant discussio
 ## Dumont Hackerspace
 [Page Dumont Hackerspace](https://dumonths.github.io/)
 
+## The Hackerspace Blueprint
+[The Hackerspace Blueprint - tradução para Português brasileiro](https://github.com/lhc/hackerspace-blueprint) 
+[The Hackerspace Blueprint ](https://hackerspace.design/)
+
 # Videos About Hackerspaces
 - [The Hackerspace Movement: Mitch Altman at TEDxBrussels](https://www.youtube.com/watch?v=WkiX7R1-kaY)
 - [Eine kurze Geschichte des CCC - die 1980er](https://www.youtube.com/watch?v=9BmPUCgUNYU)
