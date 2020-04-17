@@ -52,7 +52,8 @@ Hacker ethics are —like the rest of the world— as such in constant discussio
 # References
 - [https://wiki.hackerspaces.org/](https://wiki.hackerspaces.org/)
 - [Chaos Computer Club]
-- [C-Base] (https://www.c-base.org/)
+- [C-Base](https://www.c-base.org/)
 - [Garoa Hacker Clube](https://garoa.net.br)
 - [Laboratório Hacker de Campinas](https://lhc.net.br/)
 - [Hacker Ethics](https://www.ccc.de/en/hackerethik)
+- [The Jargon File](http://catb.org/jargon/html/)
