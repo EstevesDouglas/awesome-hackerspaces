@@ -1,8 +1,8 @@
-## Open Hardware
+# Open Hardware
 
 
 
-## Logs
+# Logs
 
-# WHY DO OPEN HARDWARE? - Limor Fried @ Open Hardware Summit 
+## WHY DO OPEN HARDWARE? - Limor Fried @ Open Hardware Summit 
 -[2010 - WHY DO OPEN HARDWARE? - Limor Fried @ Open Hardware Summit](https://www.youtube.com/watch?v=UYRhupdnUcY)
