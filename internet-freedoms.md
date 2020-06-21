@@ -1,9 +1,9 @@
 
-## Studies 
+# Studies 
 
-## re:publica 
+# re:publica 
 
-# re:publica 2018 – re:claim autonomy – Digitale Freiheitsrechte in der neuen Legislatur
+## re:publica 2018 – re:claim autonomy – Digitale Freiheitsrechte in der neuen Legislatur
 -[re:publica 2018 – re:claim autonomy – Digitale Freiheitsrechte in der neuen Legislatur](https://www.youtube.com/watch?v=Qc1Wkn1Tvys&feature=emb_title)
 
 Find out more at: https://18.re-publica.com/node/24780
