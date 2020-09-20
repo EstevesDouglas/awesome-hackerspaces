@@ -21,7 +21,7 @@ To protect the privacy of the individual and to strengthen the freedom of the in
 Hacker ethics are —like the rest of the world— as such in constant discussion and development. The above rules should be considered as guidelines and basis for discussion.
 
 
-# Brazilian Hackerspace
+# Brazilian Hackerspaces
 ## Laboratório Hacker de Campinas
 - [Laboratório Hacker de Campinas page.](https://wiki.hackerspaces.org/Laborat%C3%B3rio_Hacker_de_Campinas)
 
@@ -40,7 +40,7 @@ Hacker ethics are —like the rest of the world— as such in constant discussio
 # Thematic projects involving hackerspace
 - [Tese da UFBA sobre processos educativos em espaços hackers vence Prêmio Capes](http://www.edgardigital.ufba.br/?p=15363) 
 - [Espaço livre para criar](https://revistapesquisa.fapesp.br/2018/05/23/espaco-livre-para-criar/)
-
+- [Hacker im Ehrenamt (German language)](https://www.deutschlandfunkkultur.de/wau-holland-stiftung-hacker-im-ehrenamt.1264.de.html?dram:article_id=484385)
 # logo generator
 - [cccamp19](https://cccamp19.bleeptrack.de/)
 - [36c3](https://36c3.bleeptrack.de/)
