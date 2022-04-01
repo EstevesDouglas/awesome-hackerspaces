@@ -60,3 +60,4 @@ Hacker ethics are —like the rest of the world— as such in constant discussio
 - [Laboratório Hacker de Campinas](https://lhc.net.br/)
 - [Hacker Ethics](https://www.ccc.de/en/hackerethik)
 - [The Jargon File](http://catb.org/jargon/html/)
+- [Nederlandse hakcersapces en -organisaties](https://hackerspaces.nl/)
