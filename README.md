@@ -29,9 +29,9 @@ Hacker ethics are —like the rest of the world— as such in constant discussio
 [Page Dumont Hackerspace](https://dumonths.github.io/)
 
 ## The Hackerspace Blueprint
-[The Hackerspace Blueprint - tradução para Português brasileiro](https://github.com/lhc/hackerspace-blueprint) 
-[The Hackerspace Blueprint ](https://hackerspace.design/)
-[Design Patterns](https://wiki.hackerspaces.org/Design_Patterns)
+- [The Hackerspace Blueprint - tradução para Português brasileiro](https://github.com/lhc/hackerspace-blueprint) 
+- [The Hackerspace Blueprint ](https://hackerspace.design/)
+- [Design Patterns](https://wiki.hackerspaces.org/Design_Patterns)
 
 # Videos About Hackerspaces
 - [The Hackerspace Movement: Mitch Altman at TEDxBrussels](https://www.youtube.com/watch?v=WkiX7R1-kaY)
