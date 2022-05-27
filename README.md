@@ -26,11 +26,14 @@ Hacker ethics are —like the rest of the world— as such in constant discussio
 - [Laboratório Hacker de Campinas page.](https://wiki.hackerspaces.org/Laborat%C3%B3rio_Hacker_de_Campinas)
 - 
 ### LHC Convida
+- Online version LHC Invites:
+- During the pandemic, the LHC invites held a series of LIVE, inviting people to come and present and discuss interesting projects or initiatives, according to the demand of the community.
+
 | Interviewed           |     date     |  Host and co host                         | Links                          |
 |-----------------------|--------------|------------------------------------------|--------------------------------|
 | Sérgio Amadeu         |May, 26, 2020 |Douglas Esteves, Thiago Silva and Bonafé  | https://www.youtube.com/watch?v=t_AZThnDUCU |
+|Jormar Silva |December 2, 2020 |Douglas Esteves, Bonafé | https://www.youtube.com/watch?v=YjiQIIoAuDY |
 
-|                       |            |                       |                                |
 
 
 ## Dumont Hackerspace
