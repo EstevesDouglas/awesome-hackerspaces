@@ -35,8 +35,7 @@ Hacker ethics are —like the rest of the world— as such in constant discussio
 |Gustavo Gus	  	|November 26, 2020|Douglas Esteves, Caio Volpato|[Introdução ao Tor](https://www.youtube.com/watch?v=OUbMgDztTJo) |
 |Rodrigo Pioto 	 	|September 17, 2020|Douglas Esteves, Renne Rocha|[ Marcenaria Amadora](https://www.youtube.com/watch?v=gh5cLLmnHiA&t) |
 |Ana Zeri	      	|September 03, 2020|Douglas Esteves, Marcio, Maria Claudia, Tiago Serrano, Aylons|[SIRIUS a maior infraestrutura da ciência brasileira](https://www.youtube.com/watch?v=ZxKUDOBTqYM) | 
-|Reniere Silva		|August 06, 2020|Douglas Esteves, Renne Rocha|[Reprodutibilidade. Outro sinônimo para "hackeando a ciência"
-](https://www.youtube.com/watch?v=GyTwQF6bIpc) |
+|Reniere Silva		|August 06, 2020|Douglas Esteves, Renne Rocha|[Reprodutibilidade "hackeando a ciência"](https://www.youtube.com/watch?v=GyTwQF6bIpc) |
 |Tutti Quintella 	|July 23, 2020|Douglas Esteves, L., Renne Rocha|[Trabalho, Cultura e Comunidade Dev no Japão](https://www.youtube.com/watch?v=VVdE0kJQRYI) |
 |Fábio Maximo	  	|July 09, 2020| Douglas Esteves, Renne Rocha, Gustavo Pinheiro|[Aglomerado Aberto: Astronomi](https://www.youtube.com/watch?v=DNhvrxWTQM4) |
 |Maria Claudia		|June 25, 2020|Douglas Esteves, Renne Rocha|[Conversa fiada sem perder o fio da meada](https://www.youtube.com/watch?v=jxBDuaMQAdw) |
