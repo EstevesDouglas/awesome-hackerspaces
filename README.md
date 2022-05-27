@@ -31,15 +31,16 @@ Hacker ethics are —like the rest of the world— as such in constant discussio
 
 | Interviewed           |     date     |  Host and co host                         | Links                          |
 |-----------------------|--------------|------------------------------------------|--------------------------------|
-|Jormar Silva 		|December 2, 2020 |Douglas Esteves, Bonafé | https://www.youtube.com/watch?v=YjiQIIoAuDY |
-|Gustavo Gus	  	|November 26, 2020|Douglas Esteves, Caio |https://www.youtube.com/watch?v=OUbMgDztTJo|
-|Rodrigo Pioto 	 	|September 17, 2020|Douglas Esteves, Renne Rocha|https://www.youtube.com/watch?v=gh5cLLmnHiA&t=1s|
-|Ana Zeri	      	|September 03, 2020|Douglas Esteves, Marcio, Maria Claudia, Tiago Serrano, Aylons|https://www.youtube.com/watch?v=ZxKUDOBTqYM| 
-|Reniere Silva		|August 06, 2020|Douglas Esteves, Renne rocha|https://www.youtube.com/watch?v=GyTwQF6bIpc|
-|Tutti Quintella 	||Douglas Esteves, L., Renne Rocha|https://www.youtube.com/watch?v=VVdE0kJQRYI|
-|Fábio Maximo	  	|July 09, 2020| Douglas Esteves, Renne Rocha, Gustavo Pinheiro|https://www.youtube.com/watch?v=DNhvrxWTQM4|
-|Maria Claudia		|June 25, 2020|Douglas Esteves, Renne Rocha|https://www.youtube.com/watch?v=jxBDuaMQAdw|
-|Gedeane Kenshima	|June 11, 2020|Douglas Esteves, Renne Rocha|https://www.youtube.com/watch?v=UiFvgk0W3f8|
+|Jormar Silva 		|December 2, 2020 |Douglas Esteves, Bonafé |[Open Source Software & Open Document Format](https://www.youtube.com/watch?v=YjiQIIoAuDY) |
+|Gustavo Gus	  	|November 26, 2020|Douglas Esteves, Caio Volpato|[Introdução ao Tor](https://www.youtube.com/watch?v=OUbMgDztTJo) |
+|Rodrigo Pioto 	 	|September 17, 2020|Douglas Esteves, Renne Rocha|[ Marcenaria Amadora](https://www.youtube.com/watch?v=gh5cLLmnHiA&t) |
+|Ana Zeri	      	|September 03, 2020|Douglas Esteves, Marcio, Maria Claudia, Tiago Serrano, Aylons|[SIRIUS a maior infraestrutura da ciência brasileira](https://www.youtube.com/watch?v=ZxKUDOBTqYM) | 
+|Reniere Silva		|August 06, 2020|Douglas Esteves, Renne Rocha|[Reprodutibilidade. Outro sinônimo para "hackeando a ciência"
+](https://www.youtube.com/watch?v=GyTwQF6bIpc) |
+|Tutti Quintella 	|July 23, 2020|Douglas Esteves, L., Renne Rocha|[Trabalho, Cultura e Comunidade Dev no Japão](https://www.youtube.com/watch?v=VVdE0kJQRYI) |
+|Fábio Maximo	  	|July 09, 2020| Douglas Esteves, Renne Rocha, Gustavo Pinheiro|[Aglomerado Aberto: Astronomi](https://www.youtube.com/watch?v=DNhvrxWTQM4) |
+|Maria Claudia		|June 25, 2020|Douglas Esteves, Renne Rocha|[Conversa fiada sem perder o fio da meada](https://www.youtube.com/watch?v=jxBDuaMQAdw) |
+|Gedeane Kenshima	|June 11, 2020|Douglas Esteves, Renne Rocha|[wearables e Eletrônica, como começar?](https://www.youtube.com/watch?v=UiFvgk0W3f8)|
 |Sérgio Amadeu    |May, 26, 2020 |Douglas Esteves, Thiago Silva and Bonafé|[Sérgio Amadeu, Tecnologia e Política](https://www.youtube.com/watch?v=t_AZThnDUCU&t)|
 
 
