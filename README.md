@@ -24,6 +24,14 @@ Hacker ethics are —like the rest of the world— as such in constant discussio
 # Brazilian Hackerspaces
 ## Laboratório Hacker de Campinas
 - [Laboratório Hacker de Campinas page.](https://wiki.hackerspaces.org/Laborat%C3%B3rio_Hacker_de_Campinas)
+- 
+### LHC Convida
+| Interviewed           |     date     |  Host and co host                         | Links                          |
+|-----------------------|--------------|------------------------------------------|--------------------------------|
+| Sérgio Amadeu         |May, 26, 2020 |Douglas Esteves, Thiago Silva and Bonafé  | https://www.youtube.com/watch?v=t_AZThnDUCU |
+
+|                       |            |                       |                                |
+
 
 ## Dumont Hackerspace
 [Page Dumont Hackerspace](https://dumonths.github.io/)
