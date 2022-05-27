@@ -40,8 +40,7 @@ Hacker ethics are —like the rest of the world— as such in constant discussio
 |Fábio Maximo	  	|July 09, 2020| Douglas Esteves, Renne Rocha, Gustavo Pinheiro|https://www.youtube.com/watch?v=DNhvrxWTQM4|
 |Maria Claudia		|June 25, 2020|Douglas Esteves, Renne Rocha|https://www.youtube.com/watch?v=jxBDuaMQAdw|
 |Gedeane Kenshima	|June 11, 2020|Douglas Esteves, Renne Rocha|https://www.youtube.com/watch?v=UiFvgk0W3f8|
-|Sérgio Amadeu    |May, 26, 2020 |Douglas Esteves, Thiago Silva and Bonafé|[LHC Convida: Sérgio Amadeu [Tecnologia e Política] #FiqueEmCasa
-](https://www.youtube.com/watch?v=t_AZThnDUCU&t)|
+|Sérgio Amadeu    |May, 26, 2020 |Douglas Esteves, Thiago Silva and Bonafé|[Sérgio Amadeu, Tecnologia e Política](https://www.youtube.com/watch?v=t_AZThnDUCU&t)|
 
 
 
