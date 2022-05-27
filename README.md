@@ -37,10 +37,10 @@ Hacker ethics are —like the rest of the world— as such in constant discussio
 |Ana Zeri	      	|September 03, 2020|Douglas Esteves, Marcio, Maria Claudia, Tiago Serrano, Aylons|https://www.youtube.com/watch?v=ZxKUDOBTqYM| 
 |Reniere Silva		|August 06, 2020|Douglas Esteves, Renne rocha|https://www.youtube.com/watch?v=GyTwQF6bIpc|
 |Tutti Quintella 	||Douglas Esteves, L., Renne Rocha|https://www.youtube.com/watch?v=VVdE0kJQRYI|
-|Fábio Maximo	  	|July 09, 2020| Douglas Esteves, Renne Rocha, Gustavo Pinheiro||https://www.youtube.com/watch?v=DNhvrxWTQM4|
+|Fábio Maximo	  	|July 09, 2020| Douglas Esteves, Renne Rocha, Gustavo Pinheiro|https://www.youtube.com/watch?v=DNhvrxWTQM4|
 |Maria Claudia		|June 25, 2020|Douglas Esteves, Renne Rocha|https://www.youtube.com/watch?v=jxBDuaMQAdw|
 |Gedeane Kenshima	|June 11, 2020|Douglas Esteves, Renne Rocha|https://www.youtube.com/watch?v=UiFvgk0W3f8|
-|Sérgio Amadeu    |May, 26, 2020 |Douglas Esteves, Thiago Silva and Bonafé|https://www.youtube.com/watch?v=YjiQIIoAuDY|
+|Sérgio Amadeu    |May, 26, 2020 |Douglas Esteves, Thiago Silva and Bonafé|https://www.youtube.com/watch?v=t_AZThnDUCU&t|
 
 
 
