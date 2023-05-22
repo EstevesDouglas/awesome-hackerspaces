@@ -70,6 +70,7 @@ Hacker ethics are —like the rest of the world— as such in constant discussio
 - [cccamp19](https://cccamp19.bleeptrack.de/)
 - [36c3](https://36c3.bleeptrack.de/)
 - [35c3](https://35c3.bleeptrack.de/)
+- [reference documentation logo hackerspace](https://gitlab.com/gosh-community/visual-identity)
 
 # Maps
 - [mapall.space](https://mapall.space/)
