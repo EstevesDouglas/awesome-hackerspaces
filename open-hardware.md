@@ -13,7 +13,8 @@
 - [Open Source Hardware Association](https://www.oshwa.org/)
 - [The Journal of Open Hardware (JOH)](https://openhardware.metajnl.com/)
 - [Hardware livre e designs de hardware livre](https://www.gnu.org/philosophy/free-hardware-designs.html)
-- 
+- [🔌 Hardware All The Things](https://swisskyrepo.github.io/HardwareAllTheThings/#)
+
 
 # Logs
 update 29/01/2022
