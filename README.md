@@ -43,9 +43,6 @@ Hacker ethics are —like the rest of the world— as such in constant discussio
 |Sérgio Amadeu    |May, 26, 2020 |Douglas Esteves, Thiago Silva and Bonafé|[Sérgio Amadeu, Tecnologia e Política](https://www.youtube.com/watch?v=t_AZThnDUCU&t)|
 
 
-
-
-
 ## Dumont Hackerspace
 [Page Dumont Hackerspace](https://dumonths.github.io/)
 
@@ -59,6 +56,13 @@ Hacker ethics are —like the rest of the world— as such in constant discussio
 - [Eine kurze Geschichte des CCC - die 1980er](https://www.youtube.com/watch?v=9BmPUCgUNYU)
 - [Open Source Creativity - Hackerspaces: Science on the SPOT](https://www.youtube.com/watch?time_continue=26&v=wamwklXWK4M&feature=emb_logo)
 - [„Alles ist Eins. Außer der 0.“ zeigt die Gründung des Chaos Computer Clubs](https://fm4.orf.at/stories/3016826/)
+- [NoiseBridge : The Anarchist Hacker-space Short Documentary](https://www.youtube.com/watch?v=JZmQdKLVb1w)
+- [Inside a Brooklyn Hackerspace](https://www.youtube.com/watch?v=aezNzv6oOAQ)
+- [Hackspace Tour - Computerphile](https://www.youtube.com/watch?v=NlKjFZwW3Ts)
+- [Hackerspaces Entrepreneurship | Mitch Altman | Talks at Google](https://www.youtube.com/watch?v=jlrdHM6q6mY)
+- [Do Not Hack (Hackspaces Documentary)](https://www.youtube.com/watch?v=t8up7Wm-LAE)
+- [Hackerspace Provides Hackers Creative Haven](https://www.youtube.com/watch?v=gCvyeTRnQSs)
+- 
 
 # Thematic projects involving hackerspace
 - [Tese da UFBA sobre processos educativos em espaços hackers vence Prêmio Capes](http://www.edgardigital.ufba.br/?p=15363) 
