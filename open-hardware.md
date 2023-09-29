@@ -13,6 +13,7 @@
 - [The Journal of Open Hardware (JOH)](https://openhardware.metajnl.com/)
 - [Hardware livre e designs de hardware livre](https://www.gnu.org/philosophy/free-hardware-designs.html)
 - [🔌 Hardware All The Things](https://swisskyrepo.github.io/HardwareAllTheThings/#)
+- [Open Hardware Academy 🚀](https://www.openhardware.academy/01_Welcome.html)
 
 # Projects
 -[mail-notifier esp](https://blog.zakkemble.net/mail-notifier-wifi-edition/)
