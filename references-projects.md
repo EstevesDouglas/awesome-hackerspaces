@@ -6,6 +6,10 @@
 
 # Imprimir no LHC
 - [Small Geometric Planter](https://www.printables.com/model/221739-small-geometric-planter/files)
+- [Small Self-Watering Seed Starter](https://www.printables.com/model/61902-small-self-watering-seed-starter)
+- [Customizable & stackable beer crate for all types of batteries](https://www.printables.com/model/173788-customizable-stackable-beer-crate-for-all-types-of)
+- [Honey Comb Wall remixes and introducing my new Screw Wall](https://www.printables.com/model/393386-honeycomb-wall-all-designs/files)
+- [Honeycomb storage wall](https://www.printables.com/model/152592-honeycomb-storage-wall)
 
 
 # reference of projects in other hackerspaces
