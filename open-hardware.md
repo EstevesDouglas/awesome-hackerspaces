@@ -1,12 +1,7 @@
 # Open Hardware
 
-## Open Hardware Summit 2021
-- [Open Hardware Summit 2021](https://www.youtube.com/watch?v=KbNqtjLEN3U)
-
-## WHY DO OPEN HARDWARE? - Limor Fried @ Open Hardware Summit 
--[2010 - WHY DO OPEN HARDWARE? - Limor Fried @ Open Hardware Summit](https://www.youtube.com/watch?v=UYRhupdnUcY)
-
 # References
+- [Hardware livre e designs de hardware livre](https://www.gnu.org/philosophy/free-hardware-designs.html)
 - [Open Electronics](https://www.open-electronics.org/)
 - [Gathering for Open Science Hardware](http://openhardware.science/)
 - [Open Source Hardware Association](https://www.oshwa.org/)
@@ -14,6 +9,14 @@
 - [Hardware livre e designs de hardware livre](https://www.gnu.org/philosophy/free-hardware-designs.html)
 - [🔌 Hardware All The Things](https://swisskyrepo.github.io/HardwareAllTheThings/#)
 - [Open Hardware Academy 🚀](https://www.openhardware.academy/01_Welcome.html)
+- 
+## Open Hardware Summit 2021
+- [Open Hardware Summit 2021](https://www.youtube.com/watch?v=KbNqtjLEN3U)
+
+## WHY DO OPEN HARDWARE? - Limor Fried @ Open Hardware Summit 
+-[2010 - WHY DO OPEN HARDWARE? - Limor Fried @ Open Hardware Summit](https://www.youtube.com/watch?v=UYRhupdnUcY)
+
+
 
 # Projects
 -[mail-notifier esp](https://blog.zakkemble.net/mail-notifier-wifi-edition/)
