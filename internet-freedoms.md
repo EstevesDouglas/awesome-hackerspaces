@@ -25,7 +25,9 @@ Presented in cooperation with The Swedish Embassy and reboot.fm
 
 In line with the transmediale 2014 thematic this panel asks what today's burning net political questions are in the afterglow of the digital revolution? What has happened to the connection between the mainstreaming of the Internet and the ideology and politics of openness and freedom? Are these concepts still applicable in a post-digital world where the boundaries between analogue and digital, the virtual and the real are no longer as clear as they once seemed? Or have they been replaced by a much more sober, post-surveillance and big data influenced culture fraught with contradictions? Based in a comparison of recent developments in Sweden and Germany, this panel looks at the joints and gaps between the worlds of Internet policy and the user driven as well as creativity driven cultures where much of our post-digital lives are simulatenously lived, stored and controlled.
 
-
+## topics to talk about
+- [Facebook and Google’s New Plan? Own The Internet - wired](https://www.wired.co.uk/article/facebook-google-subsea-cables?utm_source=Twitter&utm_medium=Social&utm_campaign=SocialFlow)
+- 
 
 # Data log
  - 21 jun 2020
