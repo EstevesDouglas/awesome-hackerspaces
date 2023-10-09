@@ -3,3 +3,7 @@
 
 # Katzenpost
 - [Katzenpost blog](https://katzenpost.mixnetworks.org/)
+
+# general
+- [Jsnnet](https://jsonnet.org/)
+- [playSMS with Docker](https://playsms.org/2021/02/03/playsms-with-docker/)
