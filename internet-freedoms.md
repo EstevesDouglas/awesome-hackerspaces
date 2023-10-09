@@ -27,6 +27,9 @@ In line with the transmediale 2014 thematic this panel asks what today's burning
 
 ## topics to talk about
 - [Facebook and Google’s New Plan? Own The Internet - wired](https://www.wired.co.uk/article/facebook-google-subsea-cables?utm_source=Twitter&utm_medium=Social&utm_campaign=SocialFlow)
+- [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
+- [Understanding how Facebook disappeared from the Internet - cloudflare](https://blog.cloudflare.com/october-2021-facebook-outage/)
+- 
 - 
 
 # Data log
