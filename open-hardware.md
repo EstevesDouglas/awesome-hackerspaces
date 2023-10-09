@@ -17,7 +17,8 @@
 ## WHY DO OPEN HARDWARE? - Limor Fried @ Open Hardware Summit 
 -[2010 - WHY DO OPEN HARDWARE? - Limor Fried @ Open Hardware Summit](https://www.youtube.com/watch?v=UYRhupdnUcY)
 
-
+# EAD courses
+- [Ethics for Open Source Development (LFC104)](https://training.linuxfoundation.org/training/ethics-for-open-source-development-lfc104/)
 
 # Projects
 -[mail-notifier esp](https://blog.zakkemble.net/mail-notifier-wifi-edition/)
