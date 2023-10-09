@@ -2,6 +2,7 @@
 
 # References
 - [Hardware livre e designs de hardware livre](https://www.gnu.org/philosophy/free-hardware-designs.html)
+- [Open hardware research network](https://open-hardware.network/)
 - [Open Electronics](https://www.open-electronics.org/)
 - [Gathering for Open Science Hardware](http://openhardware.science/)
 - [Open Source Hardware Association](https://www.oshwa.org/)
