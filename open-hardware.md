@@ -1,5 +1,7 @@
 # Open Hardware
 
+ - [Open Hardware Creatos in Academia](https://ohca.oshwa.org/)
+ - 
 # References
 - [Hardware livre e designs de hardware livre](https://www.gnu.org/philosophy/free-hardware-designs.html)
 - [Open hardware research network](https://open-hardware.network/)
