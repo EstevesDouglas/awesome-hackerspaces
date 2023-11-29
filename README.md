@@ -25,7 +25,7 @@ Hacker ethics are —like the rest of the world— as such in constant discussio
 ## Laboratório Hacker de Campinas
 - [Laboratório Hacker de Campinas page.](https://wiki.hackerspaces.org/Laborat%C3%B3rio_Hacker_de_Campinas)
 - 
-### LHC Convida
+### LHC Convida 2020.
 - Online version LHC Invites:
 - During the pandemic, the LHC invites held a series of LIVE, inviting people to come and present and discuss interesting projects or initiatives, according to the demand of the community.
 
@@ -41,6 +41,9 @@ Hacker ethics are —like the rest of the world— as such in constant discussio
 |Maria Claudia		|June 25, 2020|Douglas Esteves, Renne Rocha|[Conversa fiada sem perder o fio da meada](https://www.youtube.com/watch?v=jxBDuaMQAdw) |
 |Gedeane Kenshima	|June 11, 2020|Douglas Esteves, Renne Rocha|[wearables e Eletrônica, como começar?](https://www.youtube.com/watch?v=UiFvgk0W3f8)|
 |Sérgio Amadeu    |May, 26, 2020 |Douglas Esteves, Thiago Silva and Bonafé|[Sérgio Amadeu, Tecnologia e Política](https://www.youtube.com/watch?v=t_AZThnDUCU&t)|
+
+## ROADMAP 2024 (Events and projects to be carried out at the LHC)
+
 
 
 ## Dumont Hackerspace
@@ -62,7 +65,6 @@ Hacker ethics are —like the rest of the world— as such in constant discussio
 - [Hackerspaces Entrepreneurship | Mitch Altman | Talks at Google](https://www.youtube.com/watch?v=jlrdHM6q6mY)
 - [Do Not Hack (Hackspaces Documentary)](https://www.youtube.com/watch?v=t8up7Wm-LAE)
 - [Hackerspace Provides Hackers Creative Haven](https://www.youtube.com/watch?v=gCvyeTRnQSs)
-- 
 
 # Thematic projects involving hackerspace
 - [Tese da UFBA sobre processos educativos em espaços hackers vence Prêmio Capes](http://www.edgardigital.ufba.br/?p=15363) 
