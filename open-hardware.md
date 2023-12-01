@@ -1,6 +1,7 @@
 # Open Hardware
 
  - [Open Hardware Creatos in Academia](https://ohca.oshwa.org/)
+ - [GOSH Community ](https://forum.openhardware.science/)
  - 
 # References
 - [Hardware livre e designs de hardware livre](https://www.gnu.org/philosophy/free-hardware-designs.html)
@@ -22,9 +23,16 @@
 # EAD courses
 - [Ethics for Open Source Development (LFC104)](https://training.linuxfoundation.org/training/ethics-for-open-source-development-lfc104/)
 
+
+# Blogs and papers
+- [Making hardware design open and free](https://home.cern/news/news/knowledge-sharing/making-hardware-design-open-and-free)
+- [CERN’s new Open Source Program Office](https://home.cern/news/news/computing/cerns-new-open-source-program-office)
+- 
 # Projects
 -[mail-notifier esp](https://blog.zakkemble.net/mail-notifier-wifi-edition/)
+
 # Logs
+update 01/12/2023
 update 29/01/2022
 update 17/09/2020
 
