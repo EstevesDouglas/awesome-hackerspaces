@@ -82,7 +82,7 @@ Hacker ethics are —like the rest of the world— as such in constant discussio
 - [mapall.space](https://mapall.space/)
 
 # References
-- [Hackerspaces - The Beginning (the book))[https://blog.adafruit.com/2011/09/02/hackerspaces-%E2%80%93-the-beginning-the-book/]
+- [Hackerspaces - The Beginning the book)](https://blog.adafruit.com/2011/09/02/hackerspaces-%E2%80%93-the-beginning-the-book/)
 - [wiki.hackerspaces.org](https://wiki.hackerspaces.org/)
 - [Chaos Computer Club]
 - [C-Base](https://www.c-base.org/)
