@@ -83,6 +83,7 @@ Hacker ethics are —like the rest of the world— as such in constant discussio
 
 # References
 - [Hackerspaces - The Beginning the book)](https://blog.adafruit.com/2011/09/02/hackerspaces-%E2%80%93-the-beginning-the-book/)
+- [static/the beginning.zip](https://wiki.hackerspaces.org/static/The_Beginning.zip)
 - [wiki.hackerspaces.org](https://wiki.hackerspaces.org/)
 - [Chaos Computer Club]
 - [C-Base](https://www.c-base.org/)
