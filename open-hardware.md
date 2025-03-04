@@ -1,7 +1,9 @@
 # Open Hardware
-
  - [Open Hardware Creatos in Academia](https://ohca.oshwa.org/)
  - [GOSH Community ](https://forum.openhardware.science/)
+
+# Projects on 2025
+-[Plataforma de Dados Meteorológicos](https://github.com/romildodcm/plataforma-de-dados-meteorologicos)
  - 
 # References
 - [Hardware livre e designs de hardware livre](https://www.gnu.org/philosophy/free-hardware-designs.html)
